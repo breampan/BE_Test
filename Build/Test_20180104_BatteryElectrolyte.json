@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WEGL_PHOTON_CHAT_TEST",
+"dataUrl": "Test_20180104_BatteryElectrolyte.data.unityweb",
+"asmCodeUrl": "Test_20180104_BatteryElectrolyte.asm.code.unityweb",
+"asmMemoryUrl": "Test_20180104_BatteryElectrolyte.asm.memory.unityweb",
+"asmFrameworkUrl": "Test_20180104_BatteryElectrolyte.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
